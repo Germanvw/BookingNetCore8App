@@ -30,3 +30,5 @@
 *.log
 *.db
 .vs/
+Debug/
+Release/
