@@ -8,6 +8,7 @@ C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfoInputs.cache
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfo.cs
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CoreCompileInputs.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.sourcelink.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CopyComplete
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.dll
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\refint\Tarker.Booking.Application.dll

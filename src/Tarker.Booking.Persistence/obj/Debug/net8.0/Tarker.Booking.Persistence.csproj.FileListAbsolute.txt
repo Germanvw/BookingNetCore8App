@@ -10,6 +10,7 @@ C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.AssemblyInfoInputs.cache
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.AssemblyInfo.cs
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.csproj.CoreCompileInputs.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.sourcelink.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.csproj.CopyComplete
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.dll
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\refint\Tarker.Booking.Persistence.dll
