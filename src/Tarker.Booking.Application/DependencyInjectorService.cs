@@ -6,6 +6,7 @@ using Tarker.Booking.Application.Database.User.Commands.DeleteUser;
 using Tarker.Booking.Application.Database.User.Commands.UpdateUser;
 using Tarker.Booking.Application.Database.User.Commands.UpdateUserPassword;
 using Tarker.Booking.Application.Database.User.Queries.GetAllUser;
+using Tarker.Booking.Application.Database.User.Queries.GetUserById;
 
 namespace Tarker.Booking.Application
 {
@@ -22,6 +23,7 @@ namespace Tarker.Booking.Application
             services.AddTransient<IDeleteUserCommand, DeleteUserCommand>();
             services.AddTransient<IUpdateUserPasswordCommand, UpdateUserPasswordCommand>();
             services.AddTransient<IGetAllUserQuery, GetAllUserQuery>();
+            services.AddTransient<IGetUserByIdQuery, GetUserByIdQuery>();
 
             return services;
         }
