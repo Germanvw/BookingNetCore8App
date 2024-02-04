@@ -1,0 +1,12 @@
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.deps.json
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.csproj.AssemblyReference.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.AssemblyInfoInputs.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.AssemblyInfo.cs
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.csproj.CoreCompileInputs.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\refint\Tarker.Booking.Common.dll
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\ref\Tarker.Booking.Common.dll
