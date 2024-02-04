@@ -1,19 +1,17 @@
 using Tarker.Booking.Api;
 using Tarker.Booking.Application;
 using Tarker.Booking.Common;
-using Tarker.Booking.Persistence;
 using Tarker.Booking.External;
-using Tarker.Booking.Application.Database.User.Queries.GetUserByUserNameAndPassword;
+using Tarker.Booking.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddWebApi().AddCommon().AddApplication().AddExternal(builder.Configuration).AddPersistance(builder.Configuration);
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
-app.MapPost("/Test", async (IGetUserByUserNameAndPasswordQuery service) =>
-{
-    return await service.Execute("User1", "12345");
-});
-    
+app.MapControllers();
+
 app.Run();
