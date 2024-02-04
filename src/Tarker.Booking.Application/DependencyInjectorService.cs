@@ -1,6 +1,12 @@
 ﻿using AutoMapper;
 using Microsoft.Extensions.DependencyInjection;
 using Tarker.Booking.Application.Configuration;
+using Tarker.Booking.Application.Database.Customer.Commands.CreateCustomer;
+using Tarker.Booking.Application.Database.Customer.Commands.DeleteCustomer;
+using Tarker.Booking.Application.Database.Customer.Commands.UpdateCustomer;
+using Tarker.Booking.Application.Database.Customer.Queries.GetAllCustomer;
+using Tarker.Booking.Application.Database.Customer.Queries.GetCustomerByDocumentNumber;
+using Tarker.Booking.Application.Database.Customer.Queries.GetCustomerById;
 using Tarker.Booking.Application.Database.User.Commands.CreateUser;
 using Tarker.Booking.Application.Database.User.Commands.DeleteUser;
 using Tarker.Booking.Application.Database.User.Commands.UpdateUser;
@@ -19,6 +25,7 @@ namespace Tarker.Booking.Application
 
             services.AddSingleton(mapper.CreateMapper());
 
+            #region User
             services.AddTransient<ICreateUserCommand, CreateUserCommand>();
             services.AddTransient<IUpdateUserCommand, UpdateUserCommand>();
             services.AddTransient<IDeleteUserCommand, DeleteUserCommand>();
@@ -26,6 +33,16 @@ namespace Tarker.Booking.Application
             services.AddTransient<IGetAllUserQuery, GetAllUserQuery>();
             services.AddTransient<IGetUserByIdQuery, GetUserByIdQuery>();
             services.AddTransient<IGetUserByUserNameAndPasswordQuery, GetUserByUserNameAndPasswordQuery>();
+            #endregion
+
+            #region Customer
+            services.AddTransient<ICreateCustomerCommand, CreateCustomerCommand>();
+            services.AddTransient<IUpdateCustomerCommand, UpdateCustomerCommand>();
+            services.AddTransient<IDeleteCustomerCommand, DeleteCustomerCommand>();
+            services.AddTransient<IGetAllCustomerQuery, GetAllCustomerQuery>();
+            services.AddTransient<IGetCustomerByIdQuery, GetCustomerByIdQuery>();
+            services.AddTransient<IGetCustomerByDocumentNumberQuery, GetCustomerByDocumentNumberQuery>();
+            #endregion
 
             return services;
         }
