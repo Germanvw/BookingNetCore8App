@@ -19,10 +19,12 @@ namespace Tarker.Booking.Application.Database.Booking.Commands.CreateBooking
         {
             BookingEntity entity = _mapper.Map<BookingEntity>(model);
 
+            entity.RegisterDate = DateTime.Now;
+
             await _dataBaseService.Booking.AddAsync(entity);
             await _dataBaseService.SaveAsync();
 
-            return model;
+            return _mapper.Map<CreateBookingModel>(entity);
         }
     }
 }

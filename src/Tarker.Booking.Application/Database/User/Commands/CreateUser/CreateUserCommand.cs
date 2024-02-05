@@ -21,7 +21,7 @@ namespace Tarker.Booking.Application.Database.User.Commands.CreateUser
             await _databaseService.User.AddAsync(entity);
             await _databaseService.SaveAsync();
 
-            return model;
+            return _mapper.Map<CreateUserModel>(entity);
         }
     }
 }

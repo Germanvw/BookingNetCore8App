@@ -2,6 +2,6 @@
 {
     public interface IGetAllCustomerQuery
     {
-        Task<List<GetAllCustomerQuery>> Execute();
+        Task<List<GetAllCustomerModel>> Execute();
     }
 }

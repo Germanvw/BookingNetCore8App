@@ -1,3 +1,11 @@
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.csproj.AssemblyReference.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.AssemblyInfoInputs.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.AssemblyInfo.cs
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.csproj.CoreCompileInputs.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.sourcelink.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\appsettings.Development.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\appsettings.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Api.exe
@@ -120,13 +128,6 @@ C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.External.pdb
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Persistence.pdb
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
-C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.csproj.AssemblyReference.cache
-C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.AssemblyInfoInputs.cache
-C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.AssemblyInfo.cs
-C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.csproj.CoreCompileInputs.cache
-C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.sourcelink.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Github\Personal\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\staticwebassets\msbuild.Tarker.Booking.Api.Microsoft.AspNetCore.StaticWebAssets.props

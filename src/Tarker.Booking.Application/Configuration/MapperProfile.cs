@@ -34,6 +34,7 @@ namespace Tarker.Booking.Application.Configuration
             CreateMap<CustomerEntity, GetAllCustomerModel>().ReverseMap();
             CreateMap<CustomerEntity, GetCustomerByIdModel>().ReverseMap();
             CreateMap<CustomerEntity, GetCustomerByDocumentNumberModel>().ReverseMap();
+
             #endregion
 
             #region Booking
